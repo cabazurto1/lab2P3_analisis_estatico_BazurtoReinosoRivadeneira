@@ -1,0 +1,11 @@
+# Ignorar archivos innecesarios y sensibles
+node_modules
+npm-debug.log
+.DS_Store
+.env
+*.log
+.dockerignore
+.git
+.gitignore
+.idea
+.vscode
